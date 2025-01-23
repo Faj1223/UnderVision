@@ -9,9 +9,9 @@ Fonctionnalités principales:
 
 
 
-    Analyse des émotions faciales : Détecte les visages et identifie les émotions telles que la joie, la tristesse ou la colère.
-    Compteur de personnes en temps réel : Compte avec précision les personnes présentes dans une vidéo ou une image.
-    Analyse de l’attention visuelle : Suit la direction du regard des individus pour détecter les zones de focalisation.
+Analyse des émotions faciales : Détecte les visages et identifie les émotions telles que la joie, la tristesse ou la colère.
+Compteur de personnes en temps réel : Compte avec précision les personnes présentes dans une vidéo ou une image.
+Analyse de l’attention visuelle : Suit la direction du regard des individus pour détecter les zones de focalisation.
     Reconnaissance des interactions sociales : Identifie les groupes et les dynamiques sociales dans une foule.
     Comparaison d’algorithmes de détection faciale : Évalue et optimise différentes approches pour une détection rapide et précise.
 
